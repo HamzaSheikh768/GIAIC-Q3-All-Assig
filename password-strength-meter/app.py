@@ -3,7 +3,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Password Strength Meter", layout="centered")
 
-st.title("🔒 Password Strength Checker By Muhammad Faizan...")
+st.title("🔒 Password Strength Checker...")
 st.write("Enter your password below to check its security level.")
 
 def check_password_strength(password):
