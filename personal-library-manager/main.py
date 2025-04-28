@@ -25,7 +25,7 @@ def save_library():
 library = load_library()
 
 # ========================== Streamlit App UI =============================
-st.title("📚 Personal Library Manager By Muhammad Faizna...📖")
+st.title("📚 Personal Library Manager...📖")
 st.write("Manage your personal book collection easily! 📔")
 
 #................................... Sidebar menu options
